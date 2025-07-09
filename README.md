@@ -130,3 +130,7 @@
 2. Set project timelines  
 3. Monitor overall progress via monthly view  
 4. Focus on project tasks using filters
+
+## 7. System requirement
+
+​      Requires Install .Net 8.0 runtime first.
