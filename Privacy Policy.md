@@ -12,7 +12,7 @@ QuickDo **does not collect, store, or transmit any personal or sensitive user da
   All data (shortcuts, categories, settings) is stored exclusively in three local files:  
   - `categories.json` (category definitions)  
   - `settings.json` (user preferences)  
-  - `todolist.json` (record event)  
+  - `todolist.json` (user's event)  
     These files remain on the user’s device and are never uploaded to external servers.  
 
 - **No Telemetry or Analytics**:  
