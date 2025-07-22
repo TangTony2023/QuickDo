@@ -134,3 +134,7 @@
 ## 7. System requirement
 
 ​      Requires Install .Net 8.0 runtime first.
+## 8. Download
+<a href="https://apps.microsoft.com/detail/9nrn16d4474v?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
