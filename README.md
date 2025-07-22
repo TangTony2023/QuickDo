@@ -1,5 +1,11 @@
 # QuickDo Task Management Application
 
+## Download
+<a href="https://apps.microsoft.com/detail/9nrn16d4474v?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
+
 ## 1. Application Overview  
 
 **QuickDo** is a modern task management tool based on Material Design guidelines, specifically designed to enhance personal productivity. With its intuitive user interface and powerful feature set, it helps users efficiently organize daily to-do items. The application provides a comprehensive task lifecycle management solution, including an intelligent categorization system, multi-level priority settings, visual calendar views, and advanced filtering mechanisms, enabling effortless management of tasks ranging from simple memos to complex projects.  
@@ -134,7 +140,4 @@
 ## 7. System requirement
 
 ​      Requires Install .Net 8.0 runtime first.
-## 8. Download
-<a href="https://apps.microsoft.com/detail/9nrn16d4474v?referrer=appbadge&mode=direct">
-	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
-</a>
+
