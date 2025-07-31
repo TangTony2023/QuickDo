@@ -41,11 +41,8 @@
 - **Category Maintenance**:  
   - Right-click category name to access management menu  
   - Supports renaming and deletion  
-  - When deleting categories, associated tasks can be batch-moved to uncategorized items  
-
-#### Category Visualization  
-
-- **Color-coded Labels**: Tasks display category information via colored tags in lists  
+  - When deleting categories, associated tasks can be batch-moved to uncategorized items
+     
 
 ### 2.3 Smart List Views  
 
@@ -79,7 +76,11 @@
   - Dark Green: All tasks completed  
   - Orange: Partial completion  
   - Red: Pending tasks exist  
-- **Progress Bars**: Rounded progress bars under date cells visually show completion ratios  
+- **Progress Bars**: Rounded progress bars under date cells visually show completion ratios
+
+ ### 2.5 Offline Data Management  
+
+- **Local Storage**: All data is stored securely on your device
 
 ## 3. Interface Guide  
 
