@@ -5,6 +5,10 @@
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
 
+## Donate
+If you like this app, you can consider supporting my development work!
+
+https://buy.stripe.com/cNiaEQ6CC8nb4Iz3WhgYU02
 
 ## 1. Application Overview  
 
